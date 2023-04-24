@@ -11,16 +11,6 @@ The Dynamic Land Cover map at 100 m resolution (CGLS-LC100) is a new product in 
 
 These consistent Land Cover maps (v3.0.1) are provided for the period 2015-2019 over the entire Globe, derived from the PROBA-V 100 m time-series, a database of high quality land cover training sites and several ancillary datasets, reaching an accuracy of 80% at Level1 over al years. It is planned to provide yearly updates from 2020 through the use of a Sentinel time-series.
 
-	NDMI	NDVI	BSI	NDBI
-Formula
-
-	(NIR-SWIR)/(NIR+SWIR)	(NIR-RED)/(NIR+RED)	((SWIR+RED)-(NIR+BLUE))/((SWIR+RED)+(NIR+BLUE))	((SWIR-NIR))/((SWIR+NIR))
-Landsat 5	(B04-B05)/(B04+B05)
-	(B04-B03)/(B04+B03)	((B05+B03)-(B04+B01))/((B05+B03)+(B04+B01))	(B05-B04)/(B05+B04)
-Landsat 7	(B04-B05)/(B04+B05)
-	(B04-B03)/(B04+B03)	((B05+B03)-(B04+B01))/((B05+B03)+(B04+B01))	(B05-B04)/(B05+B04)
-Landsat 8	(B05-B06)/(B05+B06)
-	(B05-B04)/(B05+B04)	((B06+B04)-(B05+B02))/((B06+B04)+(B05+B02))	(B06-B05)/(B06+B05)
 ![image](https://user-images.githubusercontent.com/23013328/233996047-6bf1a59a-fe5b-40f9-9499-8e9df5fd9749.png)
 
 
