@@ -20,5 +20,11 @@ These consistent Land Cover maps (v3.0.1) are provided for the period 2015-2019 
 
 ## Bibliography
 
+Buchhorn, M.; Smets, B.;Bertels, L.; De Roo, B.;Lesiv, M.; Tsendbazar, N.E., Linlin, L.,
+Tarko, A.(2020): Copernicus Global Land Service: Land Cover 100m: Version 3Globe
+2015-2019: Product User Manual; Zenodo, Geneve, Switzerland, September 2020;
+doi:10.5281/zenodo.3938963.
+
+
 ## Credits
 Credits to <a href="https://www.linkedin.com/in/spatialthoughts/"> Ujaval Gandhi</a> and <a href="https://spatialthoughts.com/">SpatialThought</a> team for their excellent tutorials which I used through out this project.
