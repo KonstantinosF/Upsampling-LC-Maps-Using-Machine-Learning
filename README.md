@@ -26,8 +26,8 @@ These consistent Land Cover maps (v3.0.1) are provided for the period 2015-2019 
 
 ## Results
 
+![GEE_result](https://user-images.githubusercontent.com/23013328/236033293-51e7f568-1b43-448a-9a7c-dc0584bddb56.png)
 
-![GEE_result](https://user-images.githubusercontent.com/23013328/236032720-2fd562c3-b4d7-4543-815e-5c77bc3182e4.png)
 
 ## Known Limitations
 
