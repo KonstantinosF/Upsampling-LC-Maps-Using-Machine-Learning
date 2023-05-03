@@ -16,13 +16,13 @@ These consistent Land Cover maps (v3.0.1) are provided for the period 2015-2019 
 
 ## Steps
 1. Degine the year of interest and draw two polygons; one representing the are where training samples will be extracted and another one which depicts the area we are interested to segment.
-2. PREPARE THE GROUND TRUTH LABELS
-3. INTEROPOLATE GAPS FROM CLOUDY PIXELS and APLLY SMOOTHING
-4. BUILD THE FEATURE SPACE 
-5. Collect Training Data from Global Land Cover Map
-6. Train a Random Forest 
-7. Apply the Previously Trained RF on the Image and Produce a Classified Image. Asses the Accuracy
-8. Save the Result on Google Drive
+2. Prepare the ground truth labels.
+3. Interpolate gaps from cloudy pixels and apply smoothing.
+4. Build the feature space.
+5. Collect Training Data from Global Land Cover Map.
+6. Train a Random Forest.
+7. Apply the Previously Trained RF on the Image and Produce a Classified Image. Asses the Accuracy.
+8. Save the Result on Google Drive.
 
 ## Results
 
