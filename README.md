@@ -19,10 +19,9 @@ These consistent Land Cover maps (v3.0.1) are provided for the period 2015-2019 
 ## Results
 
 ## Known Limitations
-<ol>
-<il>If the geographic area used for collecting training samples is larger than 90 square Km. then GEE will return an issue with reprojection.<\li>
-<il> If the geographic area that we want to semanticly segment should be smaller than the area we use to collect training samples.<\li>
-<\ol>
+
+1.If the geographic area used for collecting training samples is larger than 90 square Km. then GEE will return an issue with reprojection.
+2.If the geographic area that we want to semanticly segment should be smaller than the area we use to collect training samples.
 
 ## Bibliography
 
