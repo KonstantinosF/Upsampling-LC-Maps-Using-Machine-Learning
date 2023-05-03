@@ -1,6 +1,9 @@
 # Upsampling-LC-Maps-Using-Machine-Learning
 Upsampling already available land cover raster layers using machine learning inside Google Earth Engine platform.
 
+Clone the project by typing:
+git clone https://earthengine.googlesource.com/users/fkwstas/unitus/Upsampling_LC_Maps_Sentinel2
+
 ## Scope
 
 ## Description
