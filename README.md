@@ -15,7 +15,7 @@ These consistent Land Cover maps (v3.0.1) are provided for the period 2015-2019 
 
 
 ## Steps
-1. Degine the year of interest and draw two polygons; one representing the are where training samples will be extracted and another one which depicts the area we are interested to segment.
+1. Degine the year of interest and draw two polygons; one representing the are where training samples will be extracted and another one which depicts the area we are interested to segment. Name the first area as "geo" and the second area as "geo_small".
 2. Prepare the ground truth labels.
 3. Interpolate gaps from cloudy pixels and apply smoothing.
 4. Build the feature space.
