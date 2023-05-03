@@ -26,6 +26,9 @@ These consistent Land Cover maps (v3.0.1) are provided for the period 2015-2019 
 
 ## Results
 
+
+![GEE_result](https://user-images.githubusercontent.com/23013328/236032720-2fd562c3-b4d7-4543-815e-5c77bc3182e4.png)
+
 ## Known Limitations
 
 1. If the geographic area used for collecting training samples is larger than 90 square Km. then GEE will return an issue with reprojection.
