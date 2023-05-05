@@ -7,7 +7,7 @@ git clone https://earthengine.googlesource.com/users/fkwstas/unitus/Upsampling_L
 ## Scope
 
 ## Description
-
+The method used is the supervised pixel based multi-class semantic segmentation to upsample already available land cover maps with coarse spatial resolution.  For the current study pre-existing land cover maps were used which were freely available but offered in coarse spatial resolution, thus leading us to adopt an upscaling approach. This term is quite self-explanatory since its goal is to formulate a statistical model which uses as input low resolution datasets and outputs the same data but in a finer resolution. Upscaling methods are superior from simple resampling methods like nearest neighbour while it has also been adopted by several research programs. The result of this method is a raster layer with a pixel size equal to initial image and a color-coded pixel value corresponding to one of the several labels (forest, built-up etc.) The machine learning model that was chosen is called Random Forest already available in most common platforms (Google Earth Engine, Orfeo ToolBox et.c). This model was chosen because it is well established in the remote sensing community and it doesn’t require heavy computational power like Deep Learning approaches. It is a supervised learning algorithm belonging to a class of classifiers named as ensemble, based on multiple different individual decision trees and each one is trained on a subset of the original data created using the bootstrap method. In practice, random forests tend to perform very well right out of the box and tend to be less prone to overfitting compared to other classifiers like Support Vector Machines.
 
 
 ## Steps
